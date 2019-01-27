@@ -3,7 +3,7 @@
 ### Environment:
  Linux Ubuntu 
  
- Flack
+ Flask
  
  Pysharm (as code redactor)
  
